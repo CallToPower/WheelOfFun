@@ -1,0 +1,4 @@
+PyInstaller==4.9.0
+pygame==2.1.2
+numpy==1.24.2
+pillow==9.4.0
